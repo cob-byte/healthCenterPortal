@@ -60,6 +60,8 @@ or
 python manage.py runserver
 ```
 8. Server address = 127.0.0.1:8000
+    for admin
+    127.0.0.1:8000/admin
 
 
 If you installed Vistual Studio Code and virtual environment
